@@ -2,7 +2,7 @@
 
 Tamagotchi Pet made in Python 3 with Turtle and Pygame.
 
-This code is for free use. The script and the song was made 100% by me.
+This code is for free use. 
 
 <h3>Take care</h3>
 <img src="happy.png" width=300px>
