@@ -13,4 +13,4 @@ This code is for free use.
 <h3>Don't let him die</h3>
 <img src="1.png" width=300px>
 
-Created by: © Tomas Serra 
+Created by: © itsmarlo
